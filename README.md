@@ -14,7 +14,7 @@ Bienvenido a mi portafolio. Aquí encontrarás evidencias de proyectos de análi
 
 ## 📂 Estructura del repositorio
 
- ## **Proyectos realizados** 
+Los proyectos realizados se estructuran en: 
 - **proyectos/** → Notebooks con análisis completos  
 - **datasets/** → Datos públicos utilizados o enlaces a fuentes  
 - **visualizaciones/** → Gráficos exportados para comunicar hallazgos  
