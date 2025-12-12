@@ -2,22 +2,23 @@
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia **Creative Commons BY-NC-SA 4.0**.
+Este proyecto está bajo la licencia **Creative Commons BY-SA 4.0**.
 
 Puedes:
 - **Compartir** el contenido.
-- **Adaptarlo** o crear obras derivadas.
+- **Adaptarlo** y crear obras derivadas.
+- **Usarlo con fines comerciales**, siempre que cumplas las condiciones.
 
-Siempre que cumplas con:
-- **Atribución:** Debes dar crédito al autor original.
-- **No Comercial:** No puedes usar este material con fines comerciales.
-- **Compartir Igual:** Las obras derivadas deben mantenerse bajo la misma licencia.
+Debes:
+- **Atribuir** al autor original.
+- **Compartir Igual:** cualquier obra derivada debe mantenerse bajo la misma licencia CC BY-SA 4.0.
+- **No privatizar** el contenido ni imponer restricciones adicionales.
 
 Más información:  
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/
 
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
- 
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 # 📊 Portafolio de Análisis de Datos
 
 Bienvenido a mi portafolio. Aquí encontrarás evidencias de proyectos de análisis de datos que reflejan mis habilidades en:
