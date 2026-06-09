@@ -8,5 +8,5 @@
 2. Repetir la encuesta para estandarizar los intereses y así especializar las preguntas.
 3. Divercificar la cantidad de preguntas para realizar un analisis a profundidad 
 
-## Prdicciones 
+## Predicciones 
 1. La alta oferta detectada en servisios de comida muestra un sector con mayor competitividad lo cual nesesitaria mayor invercion en fatores de diferenciacion con la competencia 
